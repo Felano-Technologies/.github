@@ -30,7 +30,7 @@ At **Felano Technologies**, we build **cutting-edge software solutions** that dr
 ---
 
 ## **📫 Stay Connected**  
-🌐 **Website:** [Coming Soon]  
+🌐 **Website:** [Coming Soon](www.felanotechnologies.tech)  
 📩 **Email:** [Coming Soon]   
 🐦 **Twitter:** [Coming Soon]   
 🔗 **LinkedIn:** [[Coming Soon] )  
